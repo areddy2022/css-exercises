@@ -4,10 +4,16 @@ p {
 }
 
 #second {
-    color: blue;
+    color: rgb(0, 36, 245);
     font-size: 36px;
 }
 
 p.augment {
     font-size: 24px;
+}
+
+#fourth {
+    background-color: rgb(161, 251, 143);
+    font-size: 24px;
+    font-weight: bold;
 }
